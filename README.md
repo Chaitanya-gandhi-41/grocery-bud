@@ -28,7 +28,7 @@ GroceryBud is a simple web application that helps you save your grocery list and
 
 To install GroceryBud, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/grocerybud.git`
+1. Clone this repository: 'https://github.com/Chaitanya-gandhi-41/grocery-bud.git'
 2. Navigate to the project directory: `cd grocerybud`
 3. Install the dependencies: `npm install`
 
@@ -46,4 +46,4 @@ GroceryBud is licensed under the MIT License.
 
 ## Live Site
 
-Visit the live site here: [https://grocerybud.netlify.app/](https://grocerybud.netlify.app/)
+Visit the live site here: https://aaeb-grocery-bud.netlify.app/
